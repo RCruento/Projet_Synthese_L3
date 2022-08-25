@@ -1,0 +1,42 @@
+Projet PPIL 2019/2020: 
+
+KOUSSA Rayan, KADRI Islem.
+
+2 dossiers et 1 rapport 
+
+dossier 1 : C++ (Client)
+contient les .h et les .cpp dans  Projet_Synthese\C++\C++
+contient le .exe dans Projet_Synthese\C++\x64\Debug
+continet les .obj dans Projet_Synthese\C++\C++\x64\Debug
+contient la documentation dans Projet_Synthese\C++/DOC
+
+dossier 2 : CoteJava
+contient le Jar exectuable dans Projet_Synthese\Java
+contient les .java dans Projet_Synthese\Java/src
+contient les .class dans rojet_Synthese\Java\out\production\Serveur_Java
+contient la documentation rojet_Synthese\Java\JavaDoc
+
+Rapport : projet-de-synthese format PDF
+
+
+/*****************pour Executer les programmes**************************\
+IMPORTANT Avant de Lancer le Client C++: 
+
+ 	Ouvrez le dossier Java puis executé le fichier Serveur_Java.jar afin de lancer le serveur.
+
+Etape 2 : 2 choix possibles :
+
+	1er : Utilisation du Client.exe
+
+			Ouvrir le dossier Projet_Synthese\C++\x64\Debug puis executer Client.exe
+
+	2eme en cas d'erreur : Utilisation de Visual Studio
+
+			Allez à Projet_Synthese\C++ puis executer le fichier Client.sln
+			Celui-ci ouvrira Visual Studio
+			Rendez-vous dans les fichiers sources à votre droite double cliquez sur main.cpp
+			Lancez le deboguage en appuiyant sur F5 sur votre clavier
+		
+
+
+

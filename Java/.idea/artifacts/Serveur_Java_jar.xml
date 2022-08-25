@@ -1,0 +1,8 @@
+<component name="ArtifactManager">
+  <artifact type="jar" name="Serveur_Java:jar">
+    <output-path>$PROJECT_DIR$/out/artifacts/Serveur_Java_jar</output-path>
+    <root id="archive" name="Serveur_Java.jar">
+      <element id="module-output" name="Serveur_Java" />
+    </root>
+  </artifact>
+</component>
